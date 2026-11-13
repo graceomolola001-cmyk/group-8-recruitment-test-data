@@ -6,7 +6,7 @@ Imagine testing a recruitment system with genuine applicants before its validati
 
 ## Team project and attribution
 
-This dataset supports the **Group 8 AI Recruitment Orchestrator**, a collaborative capstone project. **Grace Omolola Odukoya served as team lead**, coordinating the project and contributing to intake and synthetic test-data preparation. The recruitment system and its modules were built collectively by Group 8 members; this repository is not presented as a solo implementation.
+This dataset supports the **Group 8 AI Recruitment Orchestrator**, a collaborative capstone project. **Grace Omolola Odukoya independently created all 50 synthetic candidate profiles and the accompanying test-data PDFs.** She also served as the Group 8 team lead, coordinated the wider capstone, and implemented the initial application intake workflow. The recruitment system and its modules were built collectively by Group 8 members; this repository is not presented as a solo implementation.
 
 ## What's here
 
